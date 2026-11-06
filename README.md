@@ -25,6 +25,13 @@
 - 개인정보 처리는 [PRIVACY.md](PRIVACY.md) 에 있습니다.
 - 문제는 [이슈](https://github.com/HyungJIn-kr-97/JHJ_GIT_CENTER_RELEASE/issues/new)로 남겨 주십시오.
 
+## 라이선스
+
+**JHJ 독점 소프트웨어입니다**([LICENSE](LICENSE)). 설치 파일과 프로그램은 고치지 않은 그대로라면 누구에게나 무료로 나눠도 됩니다.
+소스 코드의 재사용 · 수정 · 재배포와 역설계는 허락하지 않습니다.
+
+포함된 오픈 소스 구성 요소의 고지는 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) 에 있습니다(그 구성 요소에만 적용).
+
 ## 문의
 
 서비스 · 광고 · 제휴 문의 jhj@wecco.co.kr
